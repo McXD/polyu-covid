@@ -1,67 +1,134 @@
-Case Ref.,Date of Report Received,Staff/Student,Dept,Hall Resident,Reported Status,Date of Last Presence on Campus,Place(s) Visited and Special follow-up actions
-20220207-1,2022-02-07,Student,SN,N,Preliminary Positive,2022-01-29 00:00:00,VA324
-20220207-2,2022-02-07,Student,APSS,N,Confirmed,2022-01-20 00:00:00,R406
-20220207-3,2022-02-07,Student,ABCT,N,Confirmed,2022-01-25 00:00:00,Y604
-20220207-4,2022-02-07,Student,SN,N,Confirmed,2022-01-27 00:00:00,N.A.
-20220208-1,2022-02-08,Student,LSGI,N,Positive (taking rapid antigen test),2022-02-07 00:00:00,ZN604
-20220208-2,2022-02-08,Student,ME,Y,Positive (taking rapid antigen test),2022-02-08 00:00:00,N.A.
-20220209-1,2022-02-09,Staff,IC,N,Preliminary Positive,2022-01-28 00:00:00,W311f#
-20220209-2,2022-02-09,Student,CBS,Y,Positive (taking rapid antigen test),2022-02-02 00:00:00,N.A.*
-20220209-3,2022-02-09,Student,APSS,Y,Positive (taking rapid antigen test),2022-02-06 00:00:00,N.A.*
-20220209-4,2022-02-09,Student,ITC,Y,Positive (taking rapid antigen test),2022-01-26 00:00:00,N.A.*
-20220209-5,2022-02-09,Student,ITC,Y,Positive (taking rapid antigen test),2022-02-04 00:00:00,VA324#*
-20220209-6,2022-02-09,Student,SN,Y,Positive (taking rapid antigen test),2022-01-27 00:00:00,FG411#*
-20220209-7,2022-02-09,Student,FB,Y,Positive (taking rapid antigen test),2022-01-17 00:00:00,N.A.*
-20220209-8,2022-02-09,Student,ITC,Y,Positive (taking rapid antigen test),2022-02-04 00:00:00,N.A.*
-20220209-9,2022-02-09,Student,SO,Y,Preliminary Positive,2022-02-08 00:00:00,GH117#*
-20220210-1,2022-02-10,Student,ENGL,Y,Positive (taking rapid antigen test),2022-01-30 00:00:00,N.A.*
-20220210-2,2022-02-10,Student,SN,Y,Positive (taking rapid antigen test),2022-02-04 00:00:00,N.A.*
-20220210-3,2022-02-10,Student,SN,Y,Positive (taking rapid antigen test),2022-01-27 00:00:00,FG411#*
-20220210-4,2022-02-10,Student,SO,N,Preliminary Positive,2022-01-10 00:00:00,A034
-20220211-1,2022-02-11,Student,ITC,N,Preliminary Positive,2022-01-28 00:00:00,"MN001a,b#"
-20220211-2,2022-02-11,Student,HTI,N,Preliminary Positive,2022-02-10 00:00:00,"U508,U509, Y1001#"
-20220211-3,2022-02-11,Student,HTI,Y,Positive (taking rapid antigen test),2022-02-05 00:00:00,Y612#*
-20220211-4,2022-02-11,Student,HTI,Y,Positive (taking rapid antigen test),Not on campus in the past 28 days,N.A.*
-20220211-5,2022-02-11,Student,FB,Y,Positive (taking rapid antigen test),2022-01-21 00:00:00,N.A.*
-20220211-6,2022-02-11,Student,SN,Y,Positive (taking rapid antigen test),2022-01-27 00:00:00,FG411#*
-20220211-7,2022-02-11,Student,ITC,Y,Positive (taking rapid antigen test),2022-02-08 00:00:00,N.A.*
-20220211-8,2022-02-11,Student,ABCT,Y,Preliminary Positive,2022-01-20 00:00:00,Z207*
-20220211-9,2022-02-11,Student,FB,Y,Preliminary Positive,2022-02-07 00:00:00,VA324#*
-20220211-10,2022-02-11,Student,ME,Y,Preliminary Positive,2022-02-04 00:00:00,CF305#*
-20220212-1,2022-02-12,Staff,ITC,N,Positive (DTS),2022-02-11 00:00:00,"MN107, MN014 & ZN1102#"
-20220212-2,2022-02-12,Staff,RIO,N,Preliminary Positive,2022-02-10 00:00:00,"Y727, Y701 & Y841#"
-20220212-3,2022-02-12,Student,SO,N,Positive (RAT),2022-02-09 00:00:00,Corridor of GH116 & 117
-20220212-4,2022-02-12,Student,RS,N,Preliminary Positive,2022-02-08 00:00:00,"GH028, GH014#"
-20220212-5,2022-02-12,Student,APSS,N,Confirmed,Not on campus in past 28 days,N.A.
-20220213-1,2022-02-13,student,CBS,N,Positive (RAT),2022-02-10 00:00:00,"4/F Library#, VA Canteen & FG818#"
-20220213-2,2022-02-13,Student,LSGI,Y,Positive (DTS),2022-02-05 00:00:00,ZS1010#*
-20220213-3,2022-02-13,Student,EIE,Y,Positive (DTS),2022-02-11 00:00:00,CD515#*
-20220213-4,2022-02-13,Student,SN,Y,Positive (RAT),2022-01-25 00:00:00,N.A.*
-20220213-5,2022-02-13,Student,ME ,Y,Positive (RAT),2022-01-21 00:00:00,N.A.*
-20220213-6,2022-02-13,Student,APSS,Y,Positive (RAT),2022-01-24 00:00:00,N.A.*
-20220213-7,2022-02-13,Student,COMP,Y,Positive (RAT),2022-02-12 00:00:00,VA Bank & Canteen*
-20220213-8,2022-02-13,Student,ME,Y,Positive (RAT),2022-01-25 00:00:00,W311* 
-20220213-9,2022-02-13,Student,ME,Y,Positive (RAT),2022-02-12 00:00:00,CF305#*
-20220214-1,2022-02-14,Student,RS,N,Preliminary Positive,2022-02-10 00:00:00,"GH014/017/018/026/028, ST422/004#"
-20220214-2,2022-02-14,Staff,RS,N,Preliminary Positive,2022-02-11 00:00:00,"QT512, ST522, ST523, ST544#"
-20220214-3,2022-02-14,Student,MM,N,Preliminary Positive,2022-02-06 00:00:00,VA324#
-20220214-4,2022-02-14,Student,ME,N,Preliminary Positive,2022-01-26 00:00:00,3/F Lockers in Core F#
-20220214-5,2022-02-14,Student,SN,N,Preliminary Positive,2022-02-03 00:00:00,Seated outside Core R#
-20220214-6,2022-02-14,Student,EE,N,Preliminary Positive,2022-01-20 00:00:00,CF617#
-20220214-7,2022-02-14,Student,ENGL,Y,Positive (RAT),2022-01-30 00:00:00,VA Canteen#*
-20220214-8,2022-02-14,Student,COMP,Y,Positive (RAT),2022-01-25 00:00:00,Communal Student Canteen#*
-20220214-9,2022-02-14,Student,ME,Y,Preliminary Positive,2022-02-12 00:00:00,N.A.*
-20220215-1,2022-02-15,Staff,CBS,N,Preliminary Positive,2022-01-28 00:00:00,AG522 & AG503#
-20220215-2,2022-02-15,Student,SD,N,Preliminary Positive,2022-01-28 00:00:00,JCIT V720#
-20220215-3,2022-02-15,Student,BEEE,N,Positive (RAT),2022-01-18 00:00:00,N.A.
-20220215-4,2022-02-15,Staff,CBS,N,Positive (RAT),2022-12-06 00:00:00,N.A.
-20220215-5,2022-02-15,Student,AP,N,Confirmed,2022-02-10 00:00:00,FJ706#
-20220215-6,2022-02-15,Staff,CFSO,N,Positive (RAT),2022-02-15 00:00:00,P111#
-20220215-7,2022-02-15,Student,SHTM,Y,Positive (RAT),2022-02-11 00:00:00,Bristol in SHTM#*
-20220215-8,2022-02-15,Student,SN,Y,Positive (RAT) ,2022-02-14 00:00:00,A134#*
-20220215-9,2022-02-15,Student,CBS,Y,Positive (RAT),2022-02-02 00:00:00,VA324#*
-20220215-10,2022-02-15,Student,SHTM,Y,Positive (RAT),2022-01-30 00:00:00,N.A.*
-20220215-11,2022-02-15,Student,FB,Y,Positive (RAT),2022-01-22 00:00:00,N.A.*
-20220215-12,2022-02-15,Student,LMS,Y,Positive (RAT),2022-02-11 00:00:00,Canteen in Block Z#*
-20220215-13,2022-02-15,Student,BRE,Y,Positive (RAT),2022-01-21 00:00:00,ST111#*
-20220215-14,2022-02-15,Staff,ARSC,N,Preliminary Positive,2022-01-31 00:00:00,X141#
+﻿Case Ref.,Staff/Student,Dept,Hall Resident,Reported Status,Date of Last Presence on Campus,Place(s) Visited and Special follow-up actions,
+20220207-1,Student,SN,N,Preliminary Positive,29/1/2022 0:00,VA324,
+20220207-2,Student,APSS,N,Confirmed,20/1/2022 0:00,R406,
+20220207-3,Student,ABCT,N,Confirmed,25/1/2022 0:00,Y604,
+20220207-4,Student,SN,N,Confirmed,27/1/2022 0:00,N.A.,
+20220208-1,Student,LSGI,N,Positive (taking rapid antigen test),7/2/2022 0:00,ZN604,
+20220208-2,Student,ME,Y,Positive (taking rapid antigen test),8/2/2022 0:00,N.A.,
+20220209-1,Staff,IC,N,Preliminary Positive,28/1/2022 0:00,W311f#,
+20220209-2,Student,CBS,Y,Positive (taking rapid antigen test),2/2/2022 0:00,N.A.*,
+20220209-3,Student,APSS,Y,Positive (taking rapid antigen test),6/2/2022 0:00,N.A.*,
+20220209-4,Student,ITC,Y,Positive (taking rapid antigen test),26/1/2022 0:00,N.A.*,
+20220209-5,Student,ITC,Y,Positive (taking rapid antigen test),4/2/2022 0:00,VA324#*,
+20220209-6,Student,SN,Y,Positive (taking rapid antigen test),27/1/2022 0:00,FG411#*,
+20220209-7,Student,FB,Y,Positive (taking rapid antigen test),17/1/2022 0:00,N.A.*,
+20220209-8,Student,ITC,Y,Positive (taking rapid antigen test),4/2/2022 0:00,N.A.*,
+20220209-9,Student,SO,Y,Preliminary Positive,8/2/2022 0:00,GH117#*,
+20220210-1,Student,ENGL,Y,Positive (taking rapid antigen test),30/1/2022 0:00,N.A.*,
+20220210-2,Student,SN,Y,Positive (taking rapid antigen test),4/2/2022 0:00,N.A.*,
+20220210-3,Student,SN,Y,Positive (taking rapid antigen test),27/1/2022 0:00,FG411#*,
+20220210-4,Student,SO,N,Preliminary Positive,10/1/2022 0:00,A034,
+20220211-1,Student,ITC,N,Preliminary Positive,28/1/2022 0:00,"MN001a,b#",
+20220211-2,Student,HTI,N,Preliminary Positive,10/2/2022 0:00,"U508,U509, Y1001#",
+20220211-3,Student,HTI,Y,Positive (taking rapid antigen test),5/2/2022 0:00,Y612#*,
+20220211-4,Student,HTI,Y,Positive (taking rapid antigen test),Not on campus in the past 28 days,N.A.*,
+20220211-5,Student,FB,Y,Positive (taking rapid antigen test),21/1/2022 0:00,N.A.*,
+20220211-6,Student,SN,Y,Positive (taking rapid antigen test),27/1/2022 0:00,FG411#*,
+20220211-7,Student,ITC,Y,Positive (taking rapid antigen test),8/2/2022 0:00,N.A.*,
+20220211-8,Student,ABCT,Y,Preliminary Positive,20/1/2022 0:00,Z207*,
+20220211-9,Student,FB,Y,Preliminary Positive,7/2/2022 0:00,VA324#*,
+20220211-10,Student,ME,Y,Preliminary Positive,4/2/2022 0:00,CF305#*,
+20220212-1,Staff,ITC,N,Positive (DTS),11/2/2022 0:00,"MN107, MN014 & ZN1102#",
+20220212-2,Staff,RIO,N,Preliminary Positive,10/2/2022 0:00,"Y727, Y701 & Y841#",
+20220212-3,Student,SO,N,Positive (RAT),9/2/2022 0:00,Corridor of GH116 & 117,
+20220212-4,Student,RS,N,Preliminary Positive,8/2/2022 0:00,"GH028, GH014#",
+20220212-5,Student,APSS,N,Confirmed,Not on campus in past 28 days,N.A.,
+20220213-1,student,CBS,N,Positive (RAT),10/2/2022 0:00,"4/F Library#, VA Canteen & FG818#",
+20220213-2,Student,LSGI,Y,Positive (DTS),5/2/2022 0:00,ZS1010#*,
+20220213-3,Student,EIE,Y,Positive (DTS),11/2/2022 0:00,CD515#*,
+20220213-4,Student,SN,Y,Positive (RAT),25/1/2022 0:00,N.A.*,
+20220213-5,Student,ME¬†,Y,Positive (RAT),21/1/2022 0:00,N.A.*,
+20220213-6,Student,APSS,Y,Positive (RAT),24/1/2022 0:00,N.A.*,
+20220213-7,Student,COMP,Y,Positive (RAT),12/2/2022 0:00,VA Bank & Canteen*,
+20220213-8,Student,ME,Y,Positive (RAT),25/1/2022 0:00,W311*¬†,
+20220213-9,Student,ME,Y,Positive (RAT),12/2/2022 0:00,CF305#*,
+20220214-1,Student,RS,N,Preliminary Positive,10/2/2022 0:00,"GH014/017/018/026/028, ST422/004#",
+20220214-2,Staff,RS,N,Preliminary Positive,11/2/2022 0:00,"QT512, ST522, ST523, ST544#",
+20220214-3,Student,MM,N,Preliminary Positive,6/2/2022 0:00,VA324#,
+20220214-4,Student,ME,N,Preliminary Positive,26/1/2022 0:00,3/F Lockers in Core F#,
+20220214-5,Student,SN,N,Preliminary Positive,3/2/2022 0:00,Seated outside Core R#,
+20220214-6,Student,EE,N,Preliminary Positive,20/1/2022 0:00,CF617#,
+20220214-7,Student,ENGL,Y,Positive (RAT),30/1/2022 0:00,VA Canteen#*,
+20220214-8,Student,COMP,Y,Positive (RAT),25/1/2022 0:00,Communal Student Canteen#*,
+20220214-9,Student,ME,Y,Preliminary Positive,12/2/2022 0:00,N.A.*,
+20220215-1,Staff,CBS,N,Preliminary Positive,28/1/2022 0:00,AG522 & AG503#,
+20220215-2,Student,SD,N,Preliminary Positive,28/1/2022 0:00,JCIT V720#,
+20220215-3,Student,BEEE,N,Positive (RAT),18/1/2022 0:00,N.A.,
+20220215-4,Staff,CBS,N,Positive (RAT),6/12/2022 0:00,N.A.,
+20220215-5,Student,AP,N,Confirmed,10/2/2022 0:00,FJ706#,
+20220215-6,Staff,CFSO,N,Positive (RAT),15/2/2022 0:00,P111#,
+20220215-7,Student,SHTM,Y,Positive (RAT),11/2/2022 0:00,Bristol in SHTM#*,
+20220215-8,Student,SN,Y,Positive (RAT)¬†,14/2/2022 0:00,A134#*,
+20220215-9,Student,CBS,Y,Positive (RAT),2/2/2022 0:00,VA324#*,
+20220215-10,Student,SHTM,Y,Positive (RAT),30/1/2022 0:00,N.A.*,
+20220215-11,Student,FB,Y,Positive (RAT),22/1/2022 0:00,N.A.*,
+20220215-12,Student,LMS,Y,Positive (RAT),11/2/2022 0:00,Canteen in Block Z#*,
+20220215-13,Student,BRE,Y,Positive (RAT),21/1/2022 0:00,ST111#*,
+20220215-14,Staff,ARSC,N,Preliminary Positive,31/1/2022 0:00,X141#,
+20220216-1,Staff,SO,N,Preliminary Positive,14-Feb-22,"A034, A136, A137",
+20220216-2,Student,RS,N,Preliminary Positive,10-Feb-22,GH012,
+20220216-3,Staff,AAE,N,Preliminary Positive,31-Jan-22,GH034,
+20220216-4,Student,ABCT,N,Positive (RAT),8-Feb-22,"South Wing of 5/F, Library",
+20220216-5,Student,SD,N,Positive (RAT),12-Feb-22,"QR513, V1003, V923",
+20220216-6,Staff,ISE,N,Preliminary Positive,21-Jan-22,"Multimedia Commons on 3/F, Library",
+20220216-7,Student,HTI,Y,Positive (RAT),9-Feb-22,GH024,
+20220216-8,Student,SHTM,Y,Positive (RAT),21-Jan-22,N.A.,
+20220216-9,Student,RS,Y,Positive (RAT),9-Feb-22,Y1444,
+20220216-10,Student,SHTM,Y,Positive (RAT),21-Jan-22,N.A.,
+20220216-11,Student,ME,Y,Positive (RAT),20-Jan-22,N.A.,
+20220216-12,Student,COMP,Y,Positive (DTS),31-Jan-22,N.A.,
+20220216-13,Student,SN,Y,Positive (RAT),28-Jan-22,N.A.,
+20220216-14,Student,FB,Y,Positive (RAT),13-Feb-22,"G/F, Library",
+20220216-15,Student,RS,Y,Preliminary Positive,10-Feb-22,GH012,
+20220216-16,Student,RS,Y,Preliminary Positive,10-Feb-22,GH012,
+20220216-17,Student,BRE,Y,Preliminary Positive,4-Feb-22,VA324,
+20220217-1,Student,CBS,N,Preliminary Positive,17-Jan-22,"GH803, FG818",
+20220217-2,Staff,SHTM,N,Positive (RAT),14-Feb-22,TH711,
+20220217-3,Staff,SAO,N,Positive (RAT),9-Feb-22,TU308,
+20220217-4,Staff,EE,N,Positive (RAT),15-Feb-22,"HJ804, HJ810, BC710",
+20220217-5,Staff,SN,N,Preliminary Positive,11-Feb-22,A129,
+20220217-6,Student,RS,N,Positive (RAT),11-Feb-22,"GH012, GH013, M405, M406",
+20220217-7,Student,SN,N,Preliminary Positive,12-Feb-22,"BOC ATM, VA Podium",
+20220217-8,Student,ME,Y,Preliminary Positive,6-Feb-22,N.A.,
+20220217-9,Student,ITC,Y,Preliminary Positive,9-Feb-22,N.A.,
+20220217-10,Student,BME,Y,Preliminary Positive,10-Feb-22,N.A.,
+20220217-11,Student,APSS,Y,Confirmed,30-Jan-22,N.A.,
+20220217-12,Student,ME,Y,Preliminary Positive,15-Feb-22,GH034,
+20220217-13,Student,FB,Y,Positive (RAT),20-Jan-22,N.A.,
+20220217-14,Student,EIE,Y,Preliminary Positive,12-Feb-22,"BC611, Lavatory on 6/F Core B",
+20220217-15,Student,FB,Y,Preliminary Positive,10-Feb-22,N.A.,
+20220217-16,Student,LSGI,Y,Positive (RAT),31-Jan-22,N.A.,
+20220217-17,Student,SN,Y,Confirmed,29-Jan-22,HJ302,
+20220217-18,Student,ME,Y,Positive (DTS),2-Feb-22,N.A.,
+20220217-19,Student,SHTM,Y,Positive (DTS),11-Feb-22,N.A.,
+20220217-20,Student,FB,Y,Positive (RAT),6-Feb-22,24-hour study room of Library,
+20220217-21,Student,COMP,Y,Positive (RAT),14-Feb-22,M101,
+20220217-22,Student,FB,Y,Positive (RAT),Not on campus in the past 28 days,N.A.,
+20220217-23,Student,FB,Y,Preliminary Positive,Not on campus in the past 28 days,N.A.,
+20220218-1,Staff,ASRC,N,Preliminary Positive,11-Feb-22,X241,
+20220218-2,Staff,COMP,N,Preliminary Positive,15-Feb-22,"P508, P508A",
+20220218-3,Staff,BME,N,Preliminary Positive,11-Feb-22,"S107a, S017 entrance",
+20220218-4,Student,RS,N,Positive (RAT),12-Feb-22,"GH002, GH010, GH011",
+20220218-5,Student,COMP,N,Confirmed,15-Feb-22,QR503,
+20220218-6,Student,FB,N,Confirmed,3-Feb-22,VA324,
+20220218-7,Staff,HTI,N,Positive (RAT),18-Feb-22,"Y941, Y1001, Z219",
+20220218-8,Student,SN,N,Positive (RAT),16-Feb-22,4/F South Wing of Library,
+20220218-9,Student,SN,N,Confirmed,21-Jan-22,4/F South Wing of Library,
+20220218-10,Student,SO,N,Positive (RAT),16-Feb-22,4/F South Wing of Library,
+20220218-11,Student,BRE,Y,Positive (RAT),11-Feb-22,N.A.,
+20220218-12,Student,EE,Y,Positive (RAT),Not on campus in the past 28 days,N.A.,
+20220218-13,Student,SHTM,Y,Positive (DTS),Not on campus in the past 28 days,N.A.,
+20220218-14,Student,SHTM,Y,Positive (DTS),11-Feb-22,N.A.,
+20220218-15,Student,FB,Y,Positive (DTS),29-Jan-22,N.A.,
+20220218-16,Student,FB,Y,Positive (DTS),28-Jan-22,N.A.,
+20220218-17,Student,ITC,Y,Positive (RAT),6-Feb-22,N.A.,
+20220218-18,Student,ABCT,Y,Positive (RAT),12-Feb-22,"W708, VA Canteen",
+20220218-19,Student,SHTM,Y,Positive (RAT),11-Feb-22,Communal Student Canteen,
+20220218-20,Student,ITC,Y,Positive (RAT),15-Feb-22,N.A.,
+20220218-21,Student,AMA,Y,Positive (RAT),22-Jan-22,N.A.,
+20220218-22,Student,COMP,Y,Positive (RAT),28-Jan-22,N.A.,
+20220218-23,Student,LMS,Y,Positive (DTS),11-Feb-22,N.A.,
+20220218-24,Student,ITC,Y,Positive (RAT),14-Feb-22,4/F Library,
+20220218-25,Student,COMP,Y,Positive (RAT),Not on campus in the past 28 days,N.A.,
+20220218-26,Student,BME,Y,Positive (RAT),16-Feb-22,N.A.,
+20220218-27,Staff,SHTM,N,Positive (RAT),15-Feb-22,TH711,
