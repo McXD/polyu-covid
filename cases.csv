@@ -301,3 +301,82 @@
 20220225-38,Student,BME,Y,Confirmed,31-Jan-22,Bank
 20220225-39,Student,FB,Y,Positive (RAT),21-Feb-22,Library
 20220225-40,Student,FB,Y,Confirmed,Not on campus in the past 28 days,N.A.
+20220226-1,Staff,CLC,N,Positive (RAT),14-Feb-22,"GH601, GH616"
+20220226-2,Student,CEE,N,Positive (RAT),14-Feb-22,"W501, Z220"
+20220226-3,Student,RS,N,Preliminary Positive,11-Feb-22,Y1444
+20220226-4,Student,LSGI,N,Positive (RAT),18-Feb-22,ZN607
+20220226-5,Staff,MDO,N,Positive (RAT),21-Feb-22,R701
+20220226-6,Staff,SO,N,Preliminary Positive,25-Feb-22,HJ502
+20220226-7,Staff,SLLO,N,Preliminary Positive,10-Feb-22,TU409
+20220226-8,Staff,CEE,N,Preliminary Positive,19-Feb-22,ZS922
+20220226-9,Staff,ISE,N,Confirmed,25-Feb-22,"CD004, DE409"
+20220226-10,Staff,ITC,N,Confirmed,23-Feb-22,"HJ211, ST702, QT712"
+20220226-11,Staff,AAE,N,Positive (RAT),18-Feb-22,QR821
+20220226-12,Student,ME,N,Positive (RAT),21-Feb-22,CF717
+20220226-13,Staff,ME,N,Preliminary Positive,18-Feb-22,"DE001A, DE007, DE007A"
+20220226-14,Student,SO,N,Confirmed,14-Feb-22,GH029
+20220226-15,Staff,ITC,N,Confirmed,24-Feb-22,"W604, W607, W613"
+20220226-16,Staff,CDO,N,Positive (RAT),25-Feb-22,Z517
+20220226-17,Staff,ITC,N,Positive (RAT),21-Feb-22,"ST719, QT 6/F Fashion Design Studio"
+20220226-18,Staff,LSGI,N,Positive (RAT),23-Feb-22,ZS621
+20220226-19,Staff,AIDLab,N,Positive (RAT),21-Feb-22,"ST604, ST605, ST605c"
+20220227-1,Student,CEE,N,Positive (RAT),21-Feb-22,ZB227
+20220227-2,Student,RS,N,Positive (RAT),10-Feb-22,"GH016, GH028"
+20220227-3,Student,RS,N,Positive (RAT),11-Feb-22,N.A.
+20220227-4,Student,RS,N,Positive (RAT),10-Feb-22,"GH010, GH011"
+20220227-5,Staff,RS,N,Positive (RAT),25-Feb-22,QT505
+20220227-6,Student,RS,N,Positive (RAT),23-Feb-22,N.A.
+20220227-7,Student,ABCT,N,Positive (RAT),25-Feb-22,"W709, W710"
+20220227-8,Staff,ME,N,Positive (RAT),25-Feb-22,"FG642, DE006"
+20220227-9,Staff,CAF,N,Positive (RAT),25-Feb-22,Y1401
+20220227-10,Student,ITC,N,Positive (RAT),21-Feb-22,QT606
+20220227-11,Staff,ME,N,Positive (RAT),15-Feb-22,"DE002, DE006"
+20220227-12,Student,ABCT,N,Positive (RAT),25-Feb-22,"Y606, Y729, Y1203, Y1313"
+20220227-13,Staff,AAE,N,Positive (RAT),14-Feb-22,"FJ005, QT004, QT004b"
+20220227-14,Student,ISE,N,Positive (RAT),25-Feb-22,EF403
+20220227-15,Staff,IC,N,Positive (RAT),16-Feb-22,W501
+20220227-16,Student,ABCT,N,Positive (RAT),22-Feb-22,"Y1123, Y1217"
+20220227-17,Staff,ABCT,N,Positive (RAT),25-Feb-22,Y860
+20220227-18,Student,ITC,N,Preliminary Positive,18-Feb-22,6/F QT ITC Studio
+20220227-19,Student,ABCT,N,Preliminary Positive,10-Feb-22,Y719
+20220227-20,Staff,CBS,N,Preliminary Positive,23-Feb-22,EF701
+20220227-21,Student,BRE,N,Positive (RAT),25-Feb-22,"ZN709, ZS731"
+20220227-22,Staff,HRO,N,Positive (RAT),21-Feb-22,M1301
+20220227-23,Student,ABCT,N,Positive (RAT),25-Feb-22,GH161
+20220227-24,Student,ITC,N,Positive (RAT),18-Feb-22,NM004b
+20220227-25,Staff,CDO,N,Positive (RAT),25-Feb-22,Z517
+20220227-26,Staff,ITS,N,Positive (RAT),18-Feb-22,PQ417
+20220227-27,Student,ABCT,N,Confirmed,18-Feb-22,"Y1207, Y1209"
+20220227-28,Student,RS,N,Positive (RAT),18-Feb-22,G/F GH
+20220227-29,Staff,RS,N,Positive (RAT),23-Feb-22,"QT525, AG056"
+20220227-30,Staff,ME,N,Positive (RAT),18-Feb-22,"FG622, FG643"
+20220227-31,Staff,CEVR,N,Positive (RAT),23-Feb-22,Y1209
+20220227-32,Student,ABCT,N,Preliminary Positive,24-Feb-22,"Y1209, Y1203"
+20220227-33,Student,SHTM,Y,Positive (RAT),18-Feb-22,"Z409, Z410"
+20220227-34,Student,ISE,Y,Positive (RAT),9-Feb-22,5/F Library
+20220227-35,Student,AAE,Y,Confirmed,15-Feb-22,N.A.
+20220227-36,Student,AAE,Y,Confirmed,13-Feb-22,N.A.
+20220227-37,Student,AAE,Y,Positive (RAT),24-Feb-22,"FJ005, VA student canteen"
+20220227-38,Student,COMP,Y,Confirmed,Not on campus in the past 28 days,N.A.
+20220227-39,Student,SHTM,Y,Confirmed,15-Feb-22,UHS
+20220227-40,Student,BRE,Y,Positive (RAT),16-Feb-22,N.A.
+20220227-41,Student,LMS,Y,Positive (RAT),11-Feb-22,N.A.
+20220227-42,Student,SHTM,Y,Confirmed,23-Feb-22,Hotel ICON
+20220227-43,Student,CEE,Y,Confirmed,18-Feb-22,5/F R
+20220227-44,Student,SD,Y,Confirmed,25-Feb-22,V923 studio
+20220227-45,Student,CEE,Y,Confirmed,25-Feb-22,Z953
+20220227-46,Student,ME,Y,Confirmed,9-Feb-22,VA Bank 
+20220227-47,Student,ISE,Y,Confirmed,Not on campus in the past 28 days,BC302
+20220227-48,Student,FB,Y,Confirmed,23-Feb-22,"1/F & 5/F Library, 3/F BC"
+20220227-49,Student,BEEE,Y,Positive (RAT),17-Feb-22,N.A.
+20220227-50,Student,FB,Y,Confirmed,15-Feb-22,N.A.
+20220227-51,Student,BEEE,Y,Confirmed,Not on campus in the past 28 days,Y303
+20220227-52,Student,ABCT,Y,Positive (RAT),14-Feb-22,N.A.
+20220227-53,Student,ME,Y,Confirmed,22-Feb-22,N.A.
+20220227-54,Student,FB,Y,Positive (RAT),Not on campus in the past 28 days,N.A.
+20220227-55,Student,AMA,Y,Positive (RAT),Not on campus in the past 28 days,N.A.
+20220227-56,Student,LSGI,Y,Positive (RAT),27-Feb-22,N.A.
+20220227-57,Student,ME,Y,Positive (RAT),22-Feb-22,N.A.
+20220227-58,Student,RS,Y,Positive (RAT),18-Feb-22,N.A.
+20220227-59,Student,RS,Y,Positive (RAT),9-Feb-22,G/F GH
+20220227-60,Student,RS,Y,Positive (RAT),10-Feb-22,N.A.
